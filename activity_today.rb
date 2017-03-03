@@ -13,7 +13,8 @@ case todays_temperature
   when 0...40
     puts "Let's cozy up by the fire"
   else
-    puts "What planet is this?"
+    puts "What planet is this that we're on here, y'urme?"
+
   end
 
 # def pick_activity
